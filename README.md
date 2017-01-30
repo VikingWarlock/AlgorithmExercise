@@ -1,4 +1,4 @@
-#### Algorithm Exercise
+## Algorithm Exercise
 
 I am learning the algorithms from the `Introducation to Algorithms`
 
